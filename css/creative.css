@@ -546,7 +546,8 @@ header.masthead p {
   border: 7px solid #fff;
   text-align: center;
   vertical-align: middle;
-  
+  max-width: 100%;
+  height: auto;
 }
 
 .team-member h4 {
